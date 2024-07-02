@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+body {
+  font-family: "Manrope", sans-serif;
+}
+li {
+  list-style-type: none;
+}
+p, span {
+  color: #757575;
+}
+.bg-navbar-active {
+background: #ffffff;
+}
+.bg-primary-gradient {
+  background: linear-gradient(90deg, rgba(126, 144, 254, 0.05) 0%, rgba(152, 115, 255, 0.05) 100%);
+}
